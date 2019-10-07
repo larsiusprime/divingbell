@@ -91,16 +91,15 @@ Because it's a huge amount of data and it makes git cry!
 
 You see, I made some *questionable* design decisions throwing this rough 
 prototype together, chief among them splitting app details out into *35,000+ 
-individual files*.
+individual files*. Same thing goes for app capsule images.
 
-Same thing goes for app capsule images (a straight Haxe->JS image
-rewrite, or an OpenFL DOM target build, could probably get away with just 
-directly hotlinking app capsule images from Steam URL's directly, but the way I 
-wrote this app I try to load the bytes directly and display them in OpenFL 
-Bitmap objects, which is the wrong way to do things if you don't want to run 
-into CORS issues. So I just brute forced it by scraping all capsule images and
-dumping them into a folder. Needless to say, I used a much cleaner solution in 
-Deep Dive.
+Now, a straight Haxe->JS image rewrite, or an OpenFL DOM target build, could 
+probably get away with just directly hotlinking app capsule images from Steam 
+URL's directly, but the way I wrote this app I try to load the bytes directly 
+and display them in OpenFL Bitmap objects, which is the wrong way to do things 
+if you don't want to run into CORS issues. So I just brute forced it by scraping 
+all capsule images and dumping them into a folder. Needless to say, I used a 
+much cleaner solution in Deep Dive.
 
 In case that link ever goes dark, you will need to reproduce this data yourself.
 
