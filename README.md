@@ -59,6 +59,8 @@ fancy complex animations, but in the end I wound up simplifying everything to
 a basic grid layout. When I went on to develop Deep Dive I rewrote the app from
 scratch using a simple Haxe->JS pipeline.
 
+In any case, to build Diving Bell after cloning this repo:
+
 1. Install the [Haxe toolkit](https://haxe.org/download/) (I used version 3.4.7)
 2. Install [OpenFL](https://www.openfl.org/download/) (use the Haxelib instructions)
 3. Run "lime test html5" from the project's root directory
