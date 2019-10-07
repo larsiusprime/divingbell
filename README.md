@@ -68,7 +68,7 @@ In any case, to build Diving Bell after cloning this repo:
 The bin/html5/bin folder should now contain index.html and dependent files.
 
 4. Note that the "data" folder is pre-populated with all the scraped data that
-Diving Bell is dependent on to run, EXCEPT for these two directories:
+Diving Bell needs to run, EXCEPT for these two directories:
 
 ```
 /data/v2/app_details
