@@ -101,7 +101,8 @@ if you don't want to run into CORS issues. So I just brute forced it by scraping
 all capsule images and dumping them into a folder. Needless to say, I used a 
 much cleaner solution in Deep Dive.
 
-In case that link ever goes dark, you will need to reproduce this data yourself.
+In case the data links above ever goes dark, you will need to reproduce the 
+data yourself.
 
 `v2\app_details` includes a single file, `620.txt`, as an example of the 
 necessary data format.
