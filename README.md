@@ -3,6 +3,10 @@
 This is the source code to [Steam Diving Bell](https://www.fortressofdoors.com/steam-diving-bell/),
 the prototype project that inspired [Steam Deep Dive](https://store.steampowered.com/labs/divingbell).
 
+## License
+
+This is released under the MIT license. See LICENSE file for details.
+
 ## Important Note
 
 This source code is provided for research and archival purposes. All of my current
@@ -42,10 +46,6 @@ which remains the property of Valve corporation.
 
 In this document the term "Diving Bell" refers exclusively to this prototype and 
 the term "Deep Dive" refers exclusively to the official Steam Labs project.
-
-## License
-
-This is released under the MIT license. See license.md for details.
 
 ## Build Instructions
 
