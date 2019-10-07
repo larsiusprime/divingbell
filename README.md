@@ -19,7 +19,7 @@ efforts are devoted to Deep Dive rather than Diving Bell, so regarding this repo
 That said, it is entirely open source and you are more than well to fork it and 
 use it for your own projects!
 
-Also, if you have any questions about it I am happy to answer them.
+Also, if you have any questions about it I am happy to answer them when I have time.
 
 ## What it is
 
