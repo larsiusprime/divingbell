@@ -1,0 +1,377 @@
+action	genre	weak
+adventure	genre	weak
+indie	misc	weak
+classic	adjective	
+masterpiece	adjective	
+addictive	adjective	
+rpg	genre	
+fastpaced	adjective	playtime
+short	adjective	playtime
+epic	adjective	playtime
+lorerich	adjective	story
+based_on_a_novel	adjective	story
+futuristic	adjective	
+old_school	adjective	
+cult_classic	adjective	
+linear	adjective	
+offroad	adjective	
+modern	adjective	
+foreign	adjective	
+great_soundtrack	audio	
+music	audio	
+soundtrack	audio	
+casual	challenge	
+difficult	challenge	
+unforgiving	challenge	
+female_protagonist	character	
+villain_protagonist	character	
+silent_protagonist	character	
+batman	character	
+lara_croft	character	
+games_workshop	company	
+twin_stick_shooter	controls	subgenre
+controller	controls	
+mouse_only	controls	
+touchfriendly	controls	
+gridbased_movement	controls	
+intentionally_awkward_controls	controls	
+voice_control	controls	
+atmospheric	emotion	
+funny	emotion	
+comedy	emotion	
+relaxing	emotion	
+competitive	emotion	
+psychological	emotion	
+drama	emotion	
+emotional	emotion	
+tutorial	feature	challenge
+character_customization	feature	character
+moddable	feature	mods
+level_editor	feature	mods
+racing	feature	sport
+driving	feature	sport
+hunting	feature	sport
+fishing	feature	sport
+martial_arts	feature	sport
+sailing	feature	sport
+choices_matter	feature	story
+multiple_endings	feature	story
+narration	feature	story
+dynamic_narration	feature	story
+conversation	feature	story
+stealth	feature	theme
+turnbased_strategy	feature	time
+turnbased_combat	feature	time
+turnbased_tactics	feature	time
+time_attack	feature	time
+bullet_time	feature	time
+time_manipulation	feature	time
+fmv	feature	visuals
+open_world	feature	
+exploration	feature	
+sandbox	feature	
+physics	feature	
+building	feature	
+crafting	feature	
+procedural_generation	feature	
+pvp	feature	
+hack_and_slash	feature	
+resource_management	feature	
+base_building	feature	
+textbased	feature	
+perma_death	feature	
+flight	feature	
+teambased	feature	
+score_attack	feature	
+hex_grid	feature	
+pve	feature	
+hacking	feature	
+trading	feature	
+inventory_management	feature	
+nonlinear	feature	
+musicbased_procedural_generation	feature	
+6dof	feature	
+gun_customization	feature	
+artificial_intelligence	feature	
+mining	feature	
+classbased	feature	
+quicktime_events	feature	
+automation	feature	
+atv	feature	
+asymmetric_vr	feature	
+character_action_game	genre	character
+strategy	genre	
+simulation	genre	
+puzzle	genre	
+platformer	genre	
+shooter	genre	
+arcade	genre	
+fps	genre	
+rts	genre	
+card_game	genre	
+actionadventure	genre	
+fighting	genre	
+board_game	genre	
+beat_em_up	genre	
+word_game	genre	
+trackir	hardware	
+steam_machine	hardware	
+hardware	hardware	
+mod	misc	mods
+story_rich	misc	story
+3d_vision	misc	viewpoint
+360_video	misc	viewpoint
+early_access	misc	
+vr	misc	
+free_to_play	misc	
+replay_value	misc	
+utilities	misc	
+design_and_illustration	misc	
+experimental	misc	
+animation_and_modeling	misc	
+video_production	misc	
+kickstarter	misc	
+audio_production	misc	
+remake	misc	
+software_training	misc	
+software	misc	
+esports	misc	
+episodic	misc	
+experience	misc	
+photo_editing	misc	
+web_publishing	misc	
+crowdfunded	misc	
+minigames	misc	
+movie	misc	
+gaming	misc	
+sequel	misc	
+benchmark	misc	
+documentary	misc	
+feature_film	misc	
+robots	noun	
+loot	noun	
+mechs	noun	
+ninja	noun	
+dinosaurs	noun	
+dragons	noun	
+cats	noun	
+horses	noun	
+dog	noun	
+lemmings	noun	
+jet	noun	
+1990s	period	
+1980s	period	
+singleplayer	players	
+multiplayer	players	
+coop	players	
+massively_multiplayer	players	
+local_multiplayer	players	
+local_coop	players	
+online_coop	players	
+4_player_local	players	
+coop_campaign	players	
+asynchronous_multiplayer	players	
+horror	scary	emotion
+psychological_horror	scary	emotion
+dark_humor	scary	emotion
+dark_comedy	scary	emotion
+zombies	scary	noun
+demons	scary	noun
+vampire	scary	noun
+assassin	scary	noun
+werewolves	scary	noun
+dark	scary	theme
+dark_fantasy	scary	theme
+lovecraftian	scary	theme
+crime	scary	theme
+dystopian	scary	theme
+thriller	scary	theme
+gothic	scary	theme
+bikes	sport	noun
+motorbike	sport	noun
+sports	sport	
+football	sport	
+soccer	sport	
+golf	sport	
+basketball	sport	
+mini_golf	sport	
+tennis	sport	
+baseball	sport	
+wrestling	sport	
+hockey	sport	
+motocross	sport	
+skateboarding	sport	
+bowling	sport	
+cycling	sport	
+bmx	sport	
+skating	sport	
+snowboarding	sport	
+skiing	sport	
+survival_horror	subgenre	scary
+visual_novel	subgenre	story
+walking_simulator	subgenre	story
+choose_your_own_adventure	subgenre	story
+interactive_fiction	subgenre	story
+time_management	subgenre	time
+topdown_shooter	subgenre	viewpoint
+3d_platformer	subgenre	viewpoint
+thirdperson_shooter	subgenre	viewpoint
+2d_fighter	subgenre	viewpoint
+point_and_click	subgenre	
+shoot_em_up	subgenre	
+roguelike	subgenre	
+hidden_object	subgenre	
+puzzleplatformer	subgenre	
+bullet_hell	subgenre	
+roguelite	subgenre	
+tower_defense	subgenre	
+action_rpg	subgenre	
+jrpg	subgenre	
+dungeon_crawler	subgenre	
+metroidvania	subgenre	
+dating_sim	subgenre	
+city_builder	subgenre	
+match_3	subgenre	
+mmorpg	subgenre	
+clicker	subgenre	
+arena_shooter	subgenre	
+rhythm	subgenre	
+grand_strategy	subgenre	
+space_sim	subgenre	
+4x	subgenre	
+tactical_rpg	subgenre	
+strategy_rpg	subgenre	
+partybased_rpg	subgenre	
+wargame	subgenre	
+runner	subgenre	
+moba	subgenre	
+real_time_tactics	subgenre	
+battle_royale	subgenre	
+trading_card_game	subgenre	
+crpg	subgenre	
+god_game	subgenre	
+soulslike	subgenre	
+chess	subgenre	
+typing	subgenre	
+spectacle_fighter	subgenre	
+onrails_shooter	subgenre	
+sokoban	subgenre	
+pinball	subgenre	
+mystery_dungeon	subgenre	
+solitaire	subgenre	
+immersive_sim	subgenre	
+spelling	subgenre	
+star_wars	theme	franchise
+warhammer_40k	theme	franchise
+dungeons_and_dragons	theme	franchise
+lego	theme	franchise
+tanks	theme	military
+naval	theme	military
+historical	theme	period
+medieval	theme	period
+world_war_ii	theme	period
+alternate_history	theme	period
+western	theme	period
+cold_war	theme	period
+world_war_i	theme	period
+rome	theme	period
+parkour	theme	sport
+romance	theme	story
+detective	theme	story
+otome	theme	story
+time_travel	theme	time
+retro	theme	visuals
+comic_book	theme	visuals
+scifi	theme	
+fantasy	theme	
+family_friendly	theme	
+survival	theme	
+space	theme	
+mystery	theme	
+management	theme	
+tactical	theme	
+memes	theme	
+education	theme	
+war	theme	
+postapocalyptic	theme	
+surreal	theme	
+economy	theme	
+cyberpunk	theme	
+magic	theme	
+military	theme	
+aliens	theme	
+destruction	theme	
+logic	theme	
+steampunk	theme	
+lgbtqplus	theme	
+illuminati	theme	
+pirates	theme	
+science	theme	
+game_development	theme	
+political	theme	
+politics	theme	
+trains	theme	
+swordplay	theme	
+agriculture	theme	
+underwater	theme	
+superhero	theme	
+mythology	theme	
+supernatural	theme	
+nature	theme	
+satire	theme	
+philisophical	theme	
+programming	theme	
+capitalism	theme	
+america	theme	
+faith	theme	
+investigation	theme	
+mars	theme	
+conspiracy	theme	
+sniper	theme	
+diplomacy	theme	
+heist	theme	
+underground	theme	
+gambling	theme	
+submarine	theme	
+transhumanism	theme	
+pool	theme	
+parody	theme	
+snow	theme	
+transportation	theme	
+turnbased	time	
+realtime	time	
+realtime_with_pause	time	
+rpgmaker	tool	
+gamemaker	tool	
+2d	viewpoint	
+firstperson	viewpoint	
+third_person	viewpoint	
+side_scroller	viewpoint	
+topdown	viewpoint	
+isometric	viewpoint	
+2_5d	viewpoint	
+3d	viewpoint	
+split_screen	viewpoint	
+cute	visuals	emotion
+pixel_graphics	visuals	
+anime	visuals	
+colorful	visuals	
+minimalist	visuals	
+realistic	visuals	
+cartoony	visuals	
+stylized	visuals	
+handdrawn	visuals	
+abstract	visuals	
+cartoon	visuals	
+beautiful	visuals	
+voxel	visuals	
+psychedelic	visuals	
+noir	visuals	
+cinematic	visuals	
+mature	warning	adjective
+nudity	warning	risque
+sexual_content	warning	risque
+nsfw	warning	risque
+violent	warning	scary
+gore	warning	scary
+blood	warning	scary

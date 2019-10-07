@@ -1,0 +1,377 @@
+action	Action
+fps	FPS
+multiplayer	Multiplayer
+shooter	Shooter
+classic	Classic
+teambased	Team-Based
+firstperson	First-Person
+competitive	Competitive
+tactical	Tactical
+1990s	1990's
+esports	eSports
+pvp	PvP
+old_school	Old School
+military	Military
+strategy	Strategy
+masterpiece	Masterpiece
+survival	Survival
+score_attack	Score Attack
+1980s	1980s
+assassin	Assassin
+classbased	Class-Based
+coop	Co-op
+fastpaced	Fast-Paced
+retro	Retro
+online_coop	Online Co-Op
+violent	Violent
+remake	Remake
+mod	Mod
+funny	Funny
+adventure	Adventure
+world_war_ii	World War II
+war	War
+historical	Historical
+singleplayer	Singleplayer
+difficult	Difficult
+world_war_i	World War I
+free_to_play	Free to Play
+arena_shooter	Arena Shooter
+scifi	Sci-fi
+gore	Gore
+aliens	Aliens
+atmospheric	Atmospheric
+story_rich	Story Rich
+silent_protagonist	Silent Protagonist
+great_soundtrack	Great Soundtrack
+puzzle	Puzzle
+moddable	Moddable
+cyberpunk	Cyberpunk
+space	Space
+platformer	Platformer
+memes	Memes
+conspiracy	Conspiracy
+3d	3D
+psychological_horror	Psychological Horror
+cult_classic	Cult Classic
+sports	Sports
+linear	Linear
+open_world	Open World
+simulation	Simulation
+dark	Dark
+zombies	Zombies
+short	Short
+dystopian	Dystopian 
+physics	Physics
+horror	Horror
+sandbox	Sandbox
+realistic	Realistic
+massively_multiplayer	Massively Multiplayer
+comedy	Comedy
+futuristic	Futuristic
+benchmark	Benchmark
+postapocalyptic	Post-apocalyptic
+episodic	Episodic
+cinematic	Cinematic
+female_protagonist	Female Protagonist
+science	Science
+dark_humor	Dark Humor
+cartoony	Cartoony
+trading	Trading
+robots	Robots
+cartoon	Cartoon
+crafting	Crafting
+replay_value	Replay Value
+survival_horror	Survival Horror
+local_coop	Local Co-Op
+moba	MOBA
+rts	RTS
+tower_defense	Tower Defense
+fantasy	Fantasy
+rpg	RPG
+character_customization	Character Customization
+action_rpg	Action RPG
+topdown	Top-Down
+topdown_shooter	Top-Down Shooter
+third_person	Third Person
+pve	PvE
+thirdperson_shooter	Third-Person Shooter
+indie	Indie
+fighting	Fighting
+hacking	Hacking
+realtime_with_pause	Real-Time with Pause
+2d	2D
+experimental	Experimental
+addictive	Addictive
+roguelike	Rogue-like
+perma_death	Perma Death
+wargame	Wargame
+cold_war	Cold War
+diplomacy	Diplomacy
+naval	Naval
+submarine	Submarine
+4x	4X
+turnbased_strategy	Turn-Based Strategy
+turnbased	Turn-Based
+turnbased_tactics	Turn-Based Tactics
+turnbased_combat	Turn-Based Combat
+isometric	Isometric
+tactical_rpg	Tactical RPG
+dark_fantasy	Dark Fantasy
+gothic	Gothic
+tanks	Tanks
+underground	Underground
+immersive_sim	Immersive Sim
+exploration	Exploration
+dungeon_crawler	Dungeon Crawler
+magic	Magic
+stealth	Stealth
+animation_and_modeling	Animation & Modeling
+video_production	Video Production
+software	Software
+movie	Movie
+anime	Anime
+base_building	Base Building
+medieval	Medieval
+hack_and_slash	Hack and Slash
+swordplay	Swordplay
+multiple_endings	Multiple Endings
+pixel_graphics	Pixel Graphics
+2.5d	2.5D
+demons	Demons
+lovecraftian	Lovecraftian
+mystery	Mystery
+stylized	Stylized
+twin_stick_shooter	Twin Stick Shooter
+casual	Casual
+arcade	Arcade
+shoot_em_up	Shoot 'Em Up
+vampire	Vampire
+supernatural	Supernatural
+western	Western
+bullet_time	Bullet Time
+america	America
+management	Management
+building	Building
+economy	Economy
+family_friendly	Family Friendly
+city_builder	City Builder
+space_sim	Space Sim
+flight	Flight
+capitalism	Capitalism
+racing	Racing
+destruction	Destruction
+music	Music
+driving	Driving
+local_multiplayer	Local Multiplayer
+offroad	Offroad
+hex_grid	Hex Grid
+point_and_click	Point & Click
+match_3	Match 3
+cute	Cute
+underwater	Underwater
+clicker	Clicker
+colorful	Colorful
+relaxing	Relaxing
+typing	Typing
+education	Education
+hidden_object	Hidden Object
+touchfriendly	Touch-Friendly
+sniper	Sniper
+villain_protagonist	Villain Protagonist
+parody	Parody 
+god_game	God Game
+nudity	Nudity
+3d_platformer	3D Platformer
+psychological	Psychological
+surreal	Surreal
+actionadventure	Action-Adventure
+grand_strategy	Grand Strategy
+resource_management	Resource Management
+pirates	Pirates
+sailing	Sailing
+choose_your_own_adventure	Choose Your Own Adventure
+rome	Rome
+card_game	Card Game
+gambling	Gambling
+loot	Loot
+based_on_a_novel	Based On A Novel
+inventory_management	Inventory Management
+epic	Epic
+warhammer_40k	Warhammer 40K
+games_workshop	Games Workshop
+realtime	Real-Time
+real_time_tactics	Real Time Tactics
+crime	Crime
+detective	Detective
+thriller	Thriller
+beat_em_up	Beat 'em up
+star_wars	Star Wars
+side_scroller	Side Scroller
+controller	Controller
+bikes	Bikes
+beautiful	Beautiful
+emotional	Emotional
+mechs	Mechs
+spectacle_fighter	Spectacle fighter
+character_action_game	Character Action Game
+bullet_hell	Bullet Hell
+transhumanism	Transhumanism
+illuminati	Illuminati
+steampunk	Steampunk
+lara_croft	Lara Croft
+modern	Modern
+parkour	Parkour
+martial_arts	Martial Arts
+partybased_rpg	Party-Based RPG
+romance	Romance
+choices_matter	Choices Matter
+mythology	Mythology
+level_editor	Level Editor
+time_attack	Time Attack
+trains	Trains
+political	Political
+alternate_history	Alternate History
+unforgiving	Unforgiving
+heist	Heist
+split_screen	Split Screen
+3d_vision	3D Vision
+comic_book	Comic Book
+psychedelic	Psychedelic
+mmorpg	MMORPG
+philisophical	Philisophical
+time_travel	Time Travel
+superhero	Superhero
+mars	Mars
+coop_campaign	Co-op Campaign
+puzzleplatformer	Puzzle-Platformer
+onrails_shooter	On-Rails Shooter
+time_manipulation	Time Manipulation
+mini_golf	Mini Golf
+golf	Golf
+mature	Mature
+blood	Blood
+hunting	Hunting
+dragons	Dragons
+noir	Noir
+sequel	Sequel
+satire	Satire
+bowling	Bowling
+soundtrack	Soundtrack
+pinball	Pinball
+time_management	Time Management
+crpg	CRPG
+walking_simulator	Walking Simulator
+rhythm	Rhythm
+musicbased_procedural_generation	Music-Based Procedural Generation
+procedural_generation	Procedural Generation
+ninja	Ninja
+minigames	Minigames
+horses	Horses
+trackir	TrackIR
+vr	VR
+early_access	Early Access
+agriculture	Agriculture
+werewolves	Werewolves
+fmv	FMV
+lego	LEGO
+batman	Batman
+2d_fighter	2D Fighter
+4_player_local	4 Player Local
+quicktime_events	Quick-Time Events
+voice_control	Voice Control
+gun_customization	Gun Customization
+jrpg	JRPG
+politics	Politics
+fishing	Fishing
+metroidvania	Metroidvania
+6dof	6DOF
+logic	Logic
+handdrawn	Hand-drawn
+experience	Experience
+board_game	Board Game
+abstract	Abstract
+minimalist	Minimalist
+interactive_fiction	Interactive Fiction
+conversation	Conversation
+nsfw	NSFW
+mining	Mining
+solitaire	Solitaire
+mouse_only	Mouse only
+dating_sim	Dating Sim
+lorerich	Lore-Rich
+lgbtqplus	LGBTQ+
+strategy_rpg	Strategy RPG
+investigation	Investigation
+nonlinear	Nonlinear
+basketball	Basketball
+trading_card_game	Trading Card Game
+roguelite	Rogue-lite
+motocross	Motocross
+motorbike	Motorbike
+atv	ATV
+runner	Runner
+chess	Chess
+sexual_content	Sexual Content
+dinosaurs	Dinosaurs
+visual_novel	Visual Novel
+gridbased_movement	Grid-Based Movement
+lemmings	Lemmings
+transportation	Transportation
+nature	Nature
+programming	Programming
+narration	Narration
+gamemaker	GameMaker
+asynchronous_multiplayer	Asynchronous Multiplayer
+dungeons_and_dragons	Dungeons & Dragons
+documentary	Documentary
+dynamic_narration	Dynamic Narration
+rpgmaker	RPGMaker
+kickstarter	Kickstarter
+drama	Drama
+utilities	Utilities
+game_development	Game Development
+sokoban	Sokoban
+dog	Dog
+otome	Otome
+football	Football
+soccer	Soccer
+voxel	Voxel
+audio_production	Audio Production
+crowdfunded	Crowdfunded
+dark_comedy	Dark Comedy
+design_and_illustration	Design & Illustration
+web_publishing	Web Publishing
+photo_editing	Photo Editing
+software_training	Software Training
+intentionally_awkward_controls	Intentionally Awkward Controls
+textbased	Text-Based
+cats	Cats
+soulslike	Souls-like
+snow	Snow
+snowboarding	Snowboarding
+skiing	Skiing
+pool	Pool
+cycling	Cycling
+artificial_intelligence	Artificial Intelligence
+mystery_dungeon	Mystery Dungeon
+skateboarding	Skateboarding
+skating	Skating
+wrestling	Wrestling
+hockey	Hockey
+steam_machine	Steam Machine
+automation	Automation
+word_game	Word Game
+battle_royale	Battle Royale
+baseball	Baseball
+tutorial	Tutorial
+spelling	Spelling
+asymmetric_vr	Asymmetric VR
+tennis	Tennis
+gaming	Gaming
+hardware	Hardware
+bmx	BMX
+360_video	360 Video
+jet	Jet
+foreign	Foreign
+faith	Faith
+feature_film	Feature Film
