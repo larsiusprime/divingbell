@@ -77,7 +77,7 @@ Diving Bell needs to run, EXCEPT for these two directories:
 
 You will need to populate these yourself. 
 
-The missing files are here:
+The missing files are here: 
 [https://drive.google.com/open?id=1YoBZf-wUHk44RKAg6NzkmhV8JLXG_ji7](https://drive.google.com/open?id=1YoBZf-wUHk44RKAg6NzkmhV8JLXG_ji7)
 
 And you can find them on my own site as long as the prototype stays up:
