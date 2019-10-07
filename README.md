@@ -5,9 +5,11 @@ the prototype project that inspired [Steam Deep Dive](https://store.steampowered
 
 ## License
 
-All the code is released under the MIT license. See LICENSE file for details.
+All the code in this project is released under the MIT license. See LICENSE file for details.
 
-The data files I'm linking via download I can't claim copyright on as they're scraped from Steam. I did receive Valve's written permission to release this project in this way.
+The data files I'm linking via download I can't claim copyright for (and thus have no write to attach a specific license to) as they're scraped from Steam. Don't do anything dumb like pretend I'm giving you permission to "own" Portal 2's metadata or whate3ver.
+
+I received Valve's written permission to release this project in this manner.
 
 ## Important Note
 
