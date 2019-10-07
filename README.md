@@ -39,6 +39,8 @@ with the appid of the game you want to see. Note that if the game was released
 after the date the data for Diving Bell was scraped, you'll get an error because
 it won't be in the data set.
 
+See [this blog post](https://www.fortressofdoors.com/steam-diving-bell/) for more details.
+
 ## Diving Bell vs. Deep Dive: prototype vs. product
 
 This is *not* the source code to Steam Deep Dive, a [Steam Labs](https://store.steampowered.com/labs) experiment
