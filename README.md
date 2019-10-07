@@ -5,7 +5,9 @@ the prototype project that inspired [Steam Deep Dive](https://store.steampowered
 
 ## License
 
-This is released under the MIT license. See LICENSE file for details.
+All the code is released under the MIT license. See LICENSE file for details.
+
+The data files I'm linking via download I can't claim copyright on as they're scraped from Steam. I did receive Valve's written permission to release this project in this way.
 
 ## Important Note
 
